@@ -1,1 +1,1 @@
-jenkins6
+jenkins7
